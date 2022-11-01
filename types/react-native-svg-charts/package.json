@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "react-native-svg": "^6.2.1"
+        "react-native-svg": "https://github.com/uppertools/react-native-svg/tarball/0bd11bcf69d980650853b8e24e1e491423eb8aca"
     }
 }
